@@ -13,7 +13,7 @@
 ## Reading material
 [What are we developing on?](https://developer.mozilla.org/en-US/docs/Glossary/World_Wide_Web)
 
-[What are we developing with](https://blog.hubspot.com/marketing/web-design-html-css-javascript)
+[What are we developing with?](https://blog.hubspot.com/marketing/web-design-html-css-javascript)
 
 [How do we get web page in our browser?](https://kinsta.com/knowledgebase/what-is-a-nameserver/)
 
