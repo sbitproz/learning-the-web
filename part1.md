@@ -1,9 +1,9 @@
 # Part 1
 
 ## What are the expectations?
-- The purpose of this plan is to make you familiar with web development / administration.  
+- Familiarise yourself with web development / administration.  
 - Timeline is flexible.  
-- If you reach a certain level of competency you can progress a. with self employment with web administration or regular employment with software development.
+- Outcome pathways self employment with web administration or software engineering
 
 ## Essential ground skills
 - Familiarity with windows or mac
