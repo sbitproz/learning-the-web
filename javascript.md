@@ -1,3 +1,4 @@
 # Introduction to Javascript 
 
-https://www.codecademy.com/courses/introduction-to-javascript
+[Javascript a core web technology](https://www.codecademy.com/courses/introduction-to-javascript)
+
